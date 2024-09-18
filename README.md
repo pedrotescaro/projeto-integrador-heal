@@ -28,3 +28,8 @@ Este repositório contém o código-fonte e a documentação do **Heal**, um apl
 ## Acesse o Website do Heal
 
 Para mais informações, acesse o [website do Heal](https://pedrotescaro.github.io/landing-page-heal).
+
+## Repositório do Projeto
+
+Você pode encontrar o código-fonte do projeto no [repositório do GitHub](https://github.com/pedrotescaro/landing-page-heal).
+
