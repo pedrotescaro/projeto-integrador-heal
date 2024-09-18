@@ -17,6 +17,13 @@ Este repositório contém o código-fonte e a documentação do **Heal**, um apl
 - **Banco de Dados**: SQLite 🗄️
 - **Versionamento**: Git e GitHub 🌐
 
+```
+Diagrama de Caso de uso:
+```
+<p align="center">
+  <img width="1600"  src="src/assets/readme/diagramacasodeuso.png">
+</p>
+
 
 ## 📦 Como Instalar e Executar
 
