@@ -17,9 +17,14 @@ Este repositório contém o código-fonte e a documentação do **Heal**, um apl
 - **Banco de Dados**: SQLite 🗄️
 - **Versionamento**: Git e GitHub 🌐
 
+
 ## 📦 Como Instalar e Executar
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/heal.git
+   git clone https://github.com/seu-usuario/projeto-integrador-heal
 
+
+## Acesse o Website do Heal
+
+Para mais informações, acesse o [website do Heal](https://pedrotescaro.github.io/landing-page-heal).
