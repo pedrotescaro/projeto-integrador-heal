@@ -24,6 +24,13 @@ Diagrama de Caso de uso:
   <img width="1600"  src="src/assets/readme/diagramacasodeuso.png">
 </p>
 
+```
+Diagrama de Classes:
+```
+<p align="center">
+  <img width="1600"  src="src/assets/readme/diagramadeclasse.png">
+</p>
+
 
 ## 📦 Como Instalar e Executar
 
