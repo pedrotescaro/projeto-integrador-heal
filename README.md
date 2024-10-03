@@ -13,7 +13,7 @@ Este repositório contém o código-fonte e a documentação do **Heal**, um apl
 ## 🛠️ Tecnologias Utilizadas
 
 - **Linguagem**: Dart e Framework Flutter: Java para Android e Swift/objc para ios
-- **IDE**: Android Studio 📱
+- **IDE**: Android Studio/VS code 📱
 - **Banco de Dados**: SQLite 🗄️
 - **Versionamento**: Git e GitHub 🌐
 
